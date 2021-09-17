@@ -1,5 +1,5 @@
 //ToxicSamurai
-//Anyone may use/edit for any purpose
+//Licensed under Creative Commons CC-BY-NC-SA
 
 //Euclid's algorithm for gcd of two numbers
 //https://en.wikipedia.org/wiki/Algorithm#/media/File:Euclid_flowchart.svg
